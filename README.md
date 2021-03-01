@@ -17,8 +17,8 @@ This repository visulises the effects of covid19 on trade within these years:
 
 ### Want to se the Demo?
 
-[x] [YES]()
-[ ] [NO](https://github.com/)
+* [x] [YES](https://github.com/CrispenGari/Effects-of-Covid19-On-Trade/blob/main/effect-of-covid19-on-trade.ipynb)
+* [ ] [NO](https://github.com/)
 
 ### Credits
 
